@@ -1,2 +1,4 @@
-# Matplotlib_Challenge
-Matplotlib
+# Pymaceuticals
+## Matplotlib
+
+![Laboratory](Images/Laboratory.jpg)
